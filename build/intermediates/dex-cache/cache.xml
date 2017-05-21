@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/maximilian/Bachelorarbeit/maximilian_f_mueller/Implementierung/XSwiPIN2/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2a53c4f3518116b8c6aee0e477233f0f7da8616f">
+        <dex dex="/home/maximilian/Bachelorarbeit/maximilian_f_mueller/Implementierung/XSwiPIN2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-25.1.0_7df195f70cb6288c9b29529a3b253343d7daf8b3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/maximilian/Bachelorarbeit/maximilian_f_mueller/Implementierung/XSwiPIN2/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c52857b8f4a691ae2344f42ebfdeb21bc9e429e3">
+        <dex dex="/home/maximilian/Bachelorarbeit/maximilian_f_mueller/Implementierung/XSwiPIN2/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_6b39560463fddd43acc8099af14f91a182375e4a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/maximilian/Bachelorarbeit/maximilian_f_mueller/Implementierung/XSwiPIN2/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e79aa3d9a16f8c9f16377c0608de70a8f31e5d80">
+        <dex dex="/home/maximilian/Bachelorarbeit/maximilian_f_mueller/Implementierung/XSwiPIN2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-25.1.0_cb47fc441bd4096b38dd56f3270c852f3e280d24/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/maximilian/Bachelorarbeit/maximilian_f_mueller/Implementierung/XSwiPIN2/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f02263e35e52668dd17b73bf961437e3d562b35f">
+        <dex dex="/home/maximilian/Bachelorarbeit/maximilian_f_mueller/Implementierung/XSwiPIN2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-25.1.0_a647a639d297cbb27c92010b5e4b08f70c088ac0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/maximilian/Bachelorarbeit/maximilian_f_mueller/Implementierung/XSwiPIN2/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="aee64634871d88a419d59eb743c1258a60f19700">
+        <dex dex="/home/maximilian/Bachelorarbeit/maximilian_f_mueller/Implementierung/XSwiPIN2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-25.1.0_5ac9cdaadfd6e7eacaf89ee522343782435b8c6a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/maximilian/Bachelorarbeit/maximilian_f_mueller/Implementierung/XSwiPIN2/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6fb6ac3e8d3b9013819920d9ea11f3803c4c0033">
+        <dex dex="/home/maximilian/Bachelorarbeit/maximilian_f_mueller/Implementierung/XSwiPIN2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-25.1.0_ff2fc8c6d92f434f0f0a413c6071c4357a16f500/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/maximilian/Bachelorarbeit/maximilian_f_mueller/Implementierung/XSwiPIN2/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e566006483b64bd2fe3d4e781edddbf6e8a2285e">
+        <dex dex="/home/maximilian/Bachelorarbeit/maximilian_f_mueller/Implementierung/XSwiPIN2/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_3c3bdd5967ae4ad1f3a1cd8fdd93b019596db61b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/maximilian/Bachelorarbeit/maximilian_f_mueller/Implementierung/XSwiPIN2/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ca3c7aa31e2726a400a6e552b93cb9f63c9a1e6d">
+        <dex dex="/home/maximilian/Bachelorarbeit/maximilian_f_mueller/Implementierung/XSwiPIN2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-25.1.0_ef66403bd7dd321d58be7202eebb14abe0901f68/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/maximilian/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/25.1.0/support-annotations-25.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="64cb6b229a8bdfd907bc8dd46839a0053e4c018d">
+        <dex dex="/home/maximilian/Bachelorarbeit/maximilian_f_mueller/Implementierung/XSwiPIN2/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.1.0_eba0aad9d035642c191941bc0264706cdb37534d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/maximilian/Bachelorarbeit/maximilian_f_mueller/Implementierung/XSwiPIN2/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0a0ef86b7fa568a52bf6214a0326ca1f1d618da7">
+        <dex dex="/home/maximilian/Bachelorarbeit/maximilian_f_mueller/Implementierung/XSwiPIN2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-25.1.0_251add10a43803324aaf0869c419af4fc9660b8c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/maximilian/Bachelorarbeit/maximilian_f_mueller/Implementierung/XSwiPIN2/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/maximilian/Bachelorarbeit/maximilian_f_mueller/Implementierung/XSwiPIN2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-25.1.0_62aca763874088a5fafa60cbbb4967c82379e81c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/maximilian/Bachelorarbeit/maximilian_f_mueller/Implementierung/XSwiPIN2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1630658fbc2d222b988603c27b4a4249586fbfe7">
+        <dex dex="/home/maximilian/Bachelorarbeit/maximilian_f_mueller/Implementierung/XSwiPIN2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-25.1.0_a0ed0c670dea1d4cb46fdf35e7c848645648750f/classes.dex" />
+    </item>
+
+</items>
